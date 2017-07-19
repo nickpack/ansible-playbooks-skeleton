@@ -1,0 +1,4 @@
+---
+# Rather than polluting this file with 100000000 group to role assignments
+# break them out into individual yamls in assignments/
+- include: assignments/all.yml

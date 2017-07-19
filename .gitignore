@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+~.*
+site.retry
+
+# Dont allow submodule fuckups
+roles/ansible-role-*
